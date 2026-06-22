@@ -36,10 +36,10 @@ export default function Nav() {
           <Image
             src="/logo.png"
             alt="BloomNow Coaching"
-            width={160}
-            height={44}
+            width={290}
+            height={254}
             priority
-            className="h-9 w-auto"
+            className="h-14 w-auto sm:h-16 md:h-20"
           />
         </a>
 
